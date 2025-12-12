@@ -60,7 +60,7 @@ CREATE TABLE audit_log(
 
 
 INSERT INTO customers VALUES
-                        (1,'061111111111','Sakenuly Daniyar','87719696000''d_saken@gmail.com','active',CURRENT_TIMESTAMP,5000000.0),
+                        (1,'061111111111','Sakenuly Daniyar','87719696000','d_saken@gmail.com','active',CURRENT_TIMESTAMP,5000000.0),
                         (2,'061111111122','Abl Edil','87772059900','abl@gmail.com','active',CURRENT_TIMESTAMP,5000000.0),
                         (3,'061111111133','Damir Baldash','87772052006','damir@gmail.com','active',CURRENT_TIMESTAMP,5000000.0),
                         (4,'051111111144','Daulet Kopzhasar','87772052005','dauka@gmail.com','active',CURRENT_TIMESTAMP,5000000.0),
